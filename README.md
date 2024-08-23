@@ -1,28 +1,28 @@
-<h1 align="center"> ☸𝐃𝐞𝐚𝐝𝐩𝐨𝐨𝐥 𝐕2☸ <br></h1>
+<h1 align="center"> ☸no-name  𝐕2☸ <br></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=no-name-v2+made+by+no-name tech+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
+  <img src="https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg" />
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+no-name v2 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
 </p>
 
 
 
 ## 💀```Deadpool Group ❌ Channel ✝️```
 
-- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [ GROUP ](https://chat.whatsapp.com/EXnGKWdh1IaJtRfFCj7HQF)
+- [Channel](https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B)
 
-## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
+## 🔆🔆MADE BY no-name ❌tech𝕤̌
 
 # 💀```Must fork the repository✝️```
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/elizzybot/Deadpool-Md/fork)
 
-## `Deadpool Pair Code For Session`
+## `no-name v2 Pair Code For Session`
 [![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/Deadpool-pair-4?s=app)
 
 
@@ -82,6 +82,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## 💀Developer
 
   - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+- [**WhatsApp Me**](https://wa.me/2347038494997)
 ## THANKS✝️💛
   
